@@ -47,6 +47,9 @@ body {
   border: 6px solid white;
   margin-bottom: -3rem;
   z-index: 10;
+  -o-object-fit: cover;
+     object-fit: cover;
+  background-size: cover;
 }
 
 nav {
